@@ -19,7 +19,7 @@
     "variables",
     "extensions"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "ignore": [
     "package.json"
   ]

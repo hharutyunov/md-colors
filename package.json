@@ -30,7 +30,7 @@
     "email": "luke@lukeed.com",
     "url": "https://lukeed.com"
   },
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/lukeed/md-colors/issues"
   },
