@@ -3,7 +3,7 @@
 > Material Design's colors as SASS variables, extensions, or functions
 
 [![npm package][npm-ver-link]][releases]
-[![][dl-badge]][npm-pkg-link]
+[![bower package][bower-badge]][releases]
 
 ## Install
 
@@ -126,3 +126,5 @@ MIT © [Luke Edwards](https://lukeed.com)
 [releases]:     https://github.com/lukeed/md-colors/releases
 [npm-pkg-link]: https://www.npmjs.org/package/md-colors
 [npm-ver-link]: https://img.shields.io/npm/v/md-colors.svg?style=flat-square
+[dl-badge]:     http://img.shields.io/npm/dm/md-colors.svg?style=flat-square
+[bower-badge]:  https://img.shields.io/bower/v/md-colors.svg?style=flat-square
