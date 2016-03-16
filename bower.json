@@ -1,26 +1,27 @@
 {
-  "name": "md-colors",
-  "version": "0.0.0",
-  "description": "Material Design's colors as SASS variables, extensions, or functions",
-  "authors": [
-    "Luke Edwards <luke@lukeed.com>"
-  ],
-  "homepage": "https://github.com/lukeed/md-colors",
-  "repository": "https://github.com/lukeed/md-colors.git",
-  "main": "src/_md-colors.scss",
-  "keywords": [
-    "sass",
-    "scss",
-    "material",
-    "design",
-    "colors",
-    "palette",
-    "function",
-    "variables",
-    "extensions"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "package.json"
-  ]
+	"name": "md-colors",
+	"version": "0.0.0",
+	"description": "Material Design's colors as SASS variables, extensions, or functions",
+	"authors": [
+		"Luke Edwards <luke@lukeed.com>"
+	],
+	"homepage": "https://github.com/lukeed/md-colors",
+	"repository": "https://github.com/lukeed/md-colors.git",
+	"main": "src/_md-colors.scss",
+	"keywords": [
+		"sass",
+		"scss",
+		"material",
+		"design",
+		"colors",
+		"palette",
+		"function",
+		"variables",
+		"extensions"
+	],
+	"license": "MIT",
+	"ignore": [
+		"package.json",
+		".*"
+	]
 }
