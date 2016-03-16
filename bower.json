@@ -1,6 +1,6 @@
 {
 	"name": "md-colors",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Material Design's colors as SASS variables, extensions, or functions",
 	"authors": [
 		"Luke Edwards <luke@lukeed.com>"
